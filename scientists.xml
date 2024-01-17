@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scientists>
+  <scientist>
+    <pip>10001</pip>
+    <faculty>
+      <department>Physics</department>
+      <branch>Theoretical Physics</branch>
+    </faculty>
+    <scientificDegree>PhD</scientificDegree>
+    <academicTitle>
+      <title>Professor</title>
+      <fromDate>1905-01-01</fromDate>
+    </academicTitle>
+    <name>Albert Einstein</name>
+  </scientist>
+  <scientist>
+    <pip>10002</pip>
+    <faculty>
+      <department>Biology</department>
+      <branch>Evolutionary Biology</branch>
+    </faculty>
+    <scientificDegree>PhD</scientificDegree>
+    <academicTitle>
+      <title>Professor</title>
+      <fromDate>1851-01-01</fromDate>
+    </academicTitle>
+    <name>Charles Darwin</name>
+  </scientist>
+  <scientist>
+    <pip>10003</pip>
+    <faculty>
+      <department>Chemistry</department>
+      <branch>Radiochemistry</branch>
+    </faculty>
+    <scientificDegree>Doctorate</scientificDegree>
+    <academicTitle>
+      <title>Director</title>
+      <fromDate>1911-01-01</fromDate>
+    </academicTitle>
+    <name>Marie Curie</name>
+  </scientist>
+  <scientist>
+    <pip>10004</pip>
+    <faculty>
+      <department>Physics</department>
+      <branch>Quantum Physics</branch>
+    </faculty>
+    <scientificDegree>PhD</scientificDegree>
+    <academicTitle>
+      <title>Professor</title>
+      <fromDate>1922-01-01</fromDate>
+    </academicTitle>
+    <name>Niels Bohr</name>
+  </scientist>
+  <scientist>
+    <pip>10005</pip>
+    <faculty>
+      <department>Mathematics</department>
+      <branch>Theoretical Mathematics</branch>
+    </faculty>
+    <scientificDegree>PhD</scientificDegree>
+    <academicTitle>
+      <title>Professor</title>
+      <fromDate>1930-01-01</fromDate>
+    </academicTitle>
+    <name>Alan Turing</name>
+  </scientist>
+</scientists>
